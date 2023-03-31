@@ -1,7 +1,7 @@
 ### Hey Guys 👋
 
 <h1 align="center">Hi 👋, I'm Still-not-found</h1>
-<h3 align="center">I'm A passionate frontend developer from chennai</h3>
+<h3 align="center">I'm A passionate frontend developer from chennai and a proud தமிழ் Guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=still-not-found&label=Profile%20views&color=0e75b6&style=flat" alt="still-not-found" /> </p>
 
