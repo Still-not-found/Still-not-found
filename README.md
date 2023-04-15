@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Linux webapps developement**
 
-- 🤝 I’m looking for help with [Suitecrm,Nextcloud](https://github.com/Still-not-found/suitecrm-Kanban)
+- 🤝 I’m looking for help with [Suitecrm , Nextcloud and jitsi](https://github.com/Still-not-found/suitecrm-Kanban)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Still-not-found/](https://github.com/Still-not-found/)
 
