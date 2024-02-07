@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [OpenSource Projects](https://github.com/Still-not-found/suitecrm)
 
-- 🌱 I’m currently learning **MEAN stack WebDevelopement**
+- 🌱 I’m currently learning **MERN stack WebDevelopement**
 
 - 👯 I’m looking to collaborate on **Linux webapps developement**
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Still-not-found/](https://github.com/Still-not-found/)
 
-- 💬 Ask me about **Linux Administration,HTML5,CSS3**
+- 💬 Ask me about **Linux Administration,HTML5,CSS3,React**
 
 - ⚡ Fun fact **I'm not a funny guy but I'll try to be one.**
 
