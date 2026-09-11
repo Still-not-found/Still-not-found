@@ -1,44 +1,118 @@
-### Hey Guys 👋
-![MasterHead](https://linuxpanda.files.wordpress.com/2013/05/cropped-linux_panda_banner.png)
-<h1 align="center">Hi 👋, I'm Still-not-found</h1>
-<h3 align="center">I'm A passionate frontend developer from chennai and a proud தமிழ் Guy</h3>
-<!--<img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4fNBO_UDYEVxM0E5T2FyJQHaFj%26pid%3DApi&f=1&ipt=f2a1ed99d38d9102935a997f499344e48aeedab86731db71da5a090c97010aab&ipo=images"> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0e7490,100:2ee6c8&height=220&section=header&text=Raghul%20JE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Chennai%20%C2%B7%20%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%CD&descAlignY=62&descSize=16" alt="Raghul JE" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=still-not-found&label=Profile%20views&color=0e75b6&style=flat" alt="still-not-found" /> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2EE6C8&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=80&lines=I+build+tools+people+actually+use;React+%2B+Node+%2B+Express+%2B+MySQL;Software+Engineer+at+Refex+Industries;Open+to+full-time+%C2%B7+freelance+%C2%B7+remote" alt="Typing headline" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=still-not-found&theme=juicyfresh" alt="still-not-found" /></a> </p>
+  <br />
 
-- 🔭 I’m currently working on [OpenSource Projects](https://github.com/Still-not-found/suitecrm)
+  <img src="https://komarev.com/ghpvc/?username=still-not-found&label=Profile%20views&color=0e7490&style=for-the-badge" alt="Profile views" />
+  <a href="https://still-not-found.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-2ee6c8?style=for-the-badge&logo=vercel&logoColor=05080f" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Refex-Since%20Apr%202022-0e7490?style=for-the-badge" alt="Refex" />
+  <img src="https://img.shields.io/badge/Chennai-India-111827?style=for-the-badge&logo=googlemaps&logoColor=2ee6c8" alt="Chennai" />
 
-- 🌱 I’m currently learning **MERN stack WebDevelopement**
+  <br /><br />
 
-- 👯 I’m looking to collaborate on **Linux webapps developement**
+  <a href="https://www.linkedin.com/in/raghul-je" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-raghul--je-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/raghul_je/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-raghul__je-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/raghul10072000" target="_blank"><img src="https://img.shields.io/badge/HackerRank-raghul10072000-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" alt="HackerRank" /></a>
+  <a href="https://github.com/Still-not-found" target="_blank"><img src="https://img.shields.io/badge/GitHub-Still--not--found-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
-- 🤝 I’m looking for help with [Suitecrm , Nextcloud and jitsi](https://github.com/Still-not-found/suitecrm-Kanban)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Still-not-found/](https://github.com/Still-not-found/)
+### Hey. I'm Raghul.
 
-- 💬 Ask me about **Linux Administration,HTML5,CSS3,React**
+Software Engineer at **[Refex Industries Limited](https://www.refex.group/)** in Chennai. Proud தமிழ் guy. I sit with the process first — sales, plants, assets, fleets, project tracking — then I decide what the screen should do, and I build the app.
 
-- ⚡ Fun fact **I'm not a funny guy but I'll try to be one.**
+I ship **custom React + Node + Express + MySQL** products. Not templates. Not a theme pack.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://linkedin.com/in/www.linkedin.com/in/raghul-je-9a3006237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raghul-je-9a3006237" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/raghul10072000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raghul10072000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/raghul_je/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/raghul_je/" height="30" width="40" /></a>
+- 🔭 Shipping internal systems and live brand sites at Refex since **April 2022**
+- 🌱 Deepening **MERN / full-stack product** work — motion, design systems, ERPNext
+- 👨‍💻 Portfolio — [still-not-found.github.io/My_Portfolio](https://still-not-found.github.io/My_Portfolio/)
+- 💬 Ask me about **React, Node, Express, MySQL, Linux, HTML/CSS**
+- ⚡ Fun fact: I'm not a funny guy. I'll try to be one.
 
+---
+
+## Live work
+
+| Product | What it is | Link |
+| :--- | :--- | :--- |
+| **3i MedTech** | Diagnostic imaging site + CMS | [3imedtech.com](https://3imedtech.com/) |
+| **Modepro** | Pharma manufacturing site + CMS | [modepro.co.in](https://modepro.co.in/) |
+| **Adonis Medical** | X-ray manufacturer site + large CMS | [adonismedical.com](https://www.adonismedical.com/) |
+| **Biogas MIS** | CBG plant operations MIS | [srel.refex.group](https://srel.refex.group) |
+| **Refex Asset Management** | Enterprise ITAM + desktop agent | [asset.refexone.com](https://asset.refexone.com) |
+| **Refex Mobility** | EV fleet + GPS field capture | [mobility.refexone.com](https://mobility.refexone.com) |
+
+Internal too: project management, sales funnel CRM, ITAM dashboards — same React / Express / MySQL stack.
+
+---
+
+## Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,js,ts,html,css,vite,tailwind,linux,docker,git,github,php,java&theme=dark" alt="Skills" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232a" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=still-not-found&show_icons=true&locale=en&layout=compact" alt="still-not-found" /></p>
+<details>
+<summary><b>Daily / comfortable / still learning</b></summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=still-not-found&show_icons=true&locale=en" alt="still-not-found" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=still-not-found&" alt="still-not-found" /></p>
+**Daily:** React · Vite · JavaScript · TypeScript · Tailwind · Express · Node.js · MySQL · REST APIs
 
+**Comfortable:** Framer Motion · Sequelize · JWT · MUI · Git · Docker · Linux admin
 
+**Roots:** HTML5 · CSS3 · PHP · Java · Oracle · SuiteCRM · Nextcloud · Jitsi
 
+**Learning:** richer motion systems · design systems · ERPNext / Frappe
 
+</details>
+
+---
+
+## GitHub pulse
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=still-not-found&show_icons=true&theme=transparent&bg_color=05080f&title_color=2ee6c8&icon_color=2ee6c8&text_color=c5d0dc&ring_color=2ee6c8&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=still-not-found&layout=compact&theme=transparent&bg_color=05080f&title_color=2ee6c8&text_color=c5d0dc&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=still-not-found&theme=transparent&background=05080f&ring=2ee6c8&fire=2ee6c8&currStreakLabel=2ee6c8&sideLabels=c5d0dc&sideNums=c5d0dc&dates=8896a8&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=still-not-found&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</div>
+
+---
+
+## Now playing
+
+```js
+const raghul = {
+  name: "Raghul JE",
+  handle: "Still-not-found",
+  role: "Software Engineer",
+  company: "Refex Industries Limited",
+  city: "Chennai",
+  stack: ["React", "Node.js", "Express", "MySQL"],
+  shipping: ["ITAM", "fleet", "plant MIS", "brand sites"],
+  openTo: ["full-time", "freelance", "remote"],
+  funFact: "not funny. trying.",
+};
