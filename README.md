@@ -1,118 +1,224 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0e7490,100:2ee6c8&height=220&section=header&text=Raghul%20JE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Chennai%20%C2%B7%20%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%CD&descAlignY=62&descSize=16" alt="Raghul JE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,40:0e7490,100:2ee6c8&height=280&section=header&text=RAGHUL%20JE&fontSize=84&fontColor=ffffff&fontAlignY=36&desc=still-not-found%20%20%7C%20%20Software%20Engineer%20%20%7C%20%20Chennai%20%20%7C%20%20%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%CD&descAlignY=58&descSize=18" alt="Raghul JE" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2EE6C8&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=80&lines=I+build+tools+people+actually+use;React+%2B+Node+%2B+Express+%2B+MySQL;Software+Engineer+at+Refex+Industries;Open+to+full-time+%C2%B7+freelance+%C2%B7+remote" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=2EE6C8&center=true&vCenter=true&width=920&height=52&lines=SYSTEM+ONLINE.+WELCOME+TO+STILL-NOT-FOUND.;I+don't+tweak+templates.+I+ship+products.;React+%2B+Node+%2B+Express+%2B+MySQL;From+Chennai.+Proud+%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%CD+guy.;Not+funny.+I'll+try." alt="boot lines" />
 
-  <br />
+  <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=still-not-found&label=Profile%20views&color=0e7490&style=for-the-badge" alt="Profile views" />
-  <a href="https://still-not-found.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-2ee6c8?style=for-the-badge&logo=vercel&logoColor=05080f" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Refex-Since%20Apr%202022-0e7490?style=for-the-badge" alt="Refex" />
-  <img src="https://img.shields.io/badge/Chennai-India-111827?style=for-the-badge&logo=googlemaps&logoColor=2ee6c8" alt="Chennai" />
-
-  <br /><br />
-
-  <a href="https://www.linkedin.com/in/raghul-je" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-raghul--je-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/raghul_je/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-raghul__je-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/raghul10072000" target="_blank"><img src="https://img.shields.io/badge/HackerRank-raghul10072000-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" alt="HackerRank" /></a>
-  <a href="https://github.com/Still-not-found" target="_blank"><img src="https://img.shields.io/badge/GitHub-Still--not--found-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=still-not-found&label=INTRUDERS+DETECTED&color=2ee6c8&style=for-the-badge" alt="profile views"/>
+  <a href="https://still-not-found.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/▶_LAUNCH_PORTFOLIO-00ffc8-05080f?style=for-the-badge" alt="portfolio"/></a>
+  <img src="https://img.shields.io/badge/STATUS-SHIPPING_SINCE_2022-0e7490?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LOCATION-CHENNAI_IN-111827?style=for-the-badge"/>
 </div>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/raghul-je"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/raghul_je/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/raghul10072000"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111"/></a>
+  <a href="https://github.com/Still-not-found"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Still-not-found/suitecrm"><img src="https://img.shields.io/badge/Open_Source-SuiteCRM-orange?style=for-the-badge"/></a>
+</p>
 
-### Hey. I'm Raghul.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
 
-Software Engineer at **[Refex Industries Limited](https://www.refex.group/)** in Chennai. Proud தமிழ் guy. I sit with the process first — sales, plants, assets, fleets, project tracking — then I decide what the screen should do, and I build the app.
+<table>
+<tr>
+<td width="48%" valign="top">
 
-I ship **custom React + Node + Express + MySQL** products. Not templates. Not a theme pack.
+```bash
+root@still-not-found:~$ whoami
+Raghul JE  ·  Software Engineer
 
-- 🔭 Shipping internal systems and live brand sites at Refex since **April 2022**
-- 🌱 Deepening **MERN / full-stack product** work — motion, design systems, ERPNext
-- 👨‍💻 Portfolio — [still-not-found.github.io/My_Portfolio](https://still-not-found.github.io/My_Portfolio/)
-- 💬 Ask me about **React, Node, Express, MySQL, Linux, HTML/CSS**
+root@still-not-found:~$ cat mission.txt
+sit with the process. then ship the app.
+
+root@still-not-found:~$ ls ./production
+3imedtech   modepro   adonis
+biogas-mis  itam      mobility
+
+root@still-not-found:~$ echo $OPEN_TO
+full-time   freelance   remote
+
+root@still-not-found:~$ █
+```
+
+</td>
+<td width="52%" valign="top">
+
+### `> whoami`
+
+# Hi, I'm Raghul. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+
+**Still-not-found** on GitHub. Software Engineer at **Refex Industries Limited**. I sit with sales, plants, assets, fleets and project tracking — then I decide what the screen should do, and I **build the app**.
+
+Not a theme. Not a page builder. Custom **React + Node + Express + MySQL**.
+
+> I'm a passionate frontend-turned-full-stack guy from Chennai and a proud **தமிழ்** guy.
+
+- 🔭 Shipping production systems at Refex since **April 2022**
+- 🌱 Leveling up **MERN**, motion, design systems, ERPNext
+- 👯 Want to collab on **Linux webapps**
+- 🤝 Still down to talk **SuiteCRM · Nextcloud · Jitsi**
 - ⚡ Fun fact: I'm not a funny guy. I'll try to be one.
 
----
+<img src="https://linuxpanda.files.wordpress.com/2013/05/cropped-linux_panda_banner.png" alt="linux panda" width="100%"/>
 
-## Live work
+</td>
+</tr>
+</table>
 
-| Product | What it is | Link |
-| :--- | :--- | :--- |
-| **3i MedTech** | Diagnostic imaging site + CMS | [3imedtech.com](https://3imedtech.com/) |
-| **Modepro** | Pharma manufacturing site + CMS | [modepro.co.in](https://modepro.co.in/) |
-| **Adonis Medical** | X-ray manufacturer site + large CMS | [adonismedical.com](https://www.adonismedical.com/) |
-| **Biogas MIS** | CBG plant operations MIS | [srel.refex.group](https://srel.refex.group) |
-| **Refex Asset Management** | Enterprise ITAM + desktop agent | [asset.refexone.com](https://asset.refexone.com) |
-| **Refex Mobility** | EV fleet + GPS field capture | [mobility.refexone.com](https://mobility.refexone.com) |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
 
-Internal too: project management, sales funnel CRM, ITAM dashboards — same React / Express / MySQL stack.
-
----
-
-## Stack
+<h2 align="center">⚡ LIVE PRODUCTION — DON'T JUST STAR, CLICK</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,js,ts,html,css,vite,tailwind,linux,docker,git,github,php,java&theme=dark" alt="Skills" />
-  </a>
+  <a href="https://3imedtech.com/"><img src="https://img.shields.io/badge/3i_MedTech-LIVE-2ee6c8?style=for-the-badge&logo=react&logoColor=05080f"/></a>
+  <a href="https://modepro.co.in/"><img src="https://img.shields.io/badge/Modepro-LIVE-67e8f9?style=for-the-badge&logo=vite&logoColor=05080f"/></a>
+  <a href="https://www.adonismedical.com/"><img src="https://img.shields.io/badge/Adonis_Medical-LIVE-22d3ee?style=for-the-badge"/></a>
+  <a href="https://srel.refex.group"><img src="https://img.shields.io/badge/Biogas_MIS-PROD-0e7490?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://asset.refexone.com"><img src="https://img.shields.io/badge/ITAM-asset.refexone-111827?style=for-the-badge"/></a>
+  <a href="https://mobility.refexone.com"><img src="https://img.shields.io/badge/Mobility-fleet_%2B_GPS-2ee6c8?style=for-the-badge"/></a>
+</p>
+
+<table>
+  <tr>
+    <td align="center">🩻<br/><b>3i MedTech</b><br/><sub>imaging site + CMS</sub></td>
+    <td align="center">💊<br/><b>Modepro</b><br/><sub>pharma site + CMS</sub></td>
+    <td align="center">⚙️<br/><b>Adonis</b><br/><sub>25+ admin surfaces</sub></td>
+    <td align="center">🌱<br/><b>Biogas MIS</b><br/><sub>CBG plant ops</sub></td>
+    <td align="center">💻<br/><b>ITAM</b><br/><sub>assets + agent</sub></td>
+    <td align="center">🚗<br/><b>Mobility</b><br/><sub>EV + GPS capture</sub></td>
+  </tr>
+</table>
+
+<p align="center"><i>Internal also: project management · sales funnel CRM · ITAM dashboards. Same React / Express / MySQL stack.</i></p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
+
+<h2 align="center">🕹️ LOADOUT</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,js,ts,html,css,vite,tailwind,linux,bash,docker,git,github,php,java&theme=dark&perline=8" alt="loadout"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232a" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff"/>
 </p>
 
 <details>
-<summary><b>Daily / comfortable / still learning</b></summary>
+<summary><b>▶ open inventory</b></summary>
 
-<br />
+<br/>
 
-**Daily:** React · Vite · JavaScript · TypeScript · Tailwind · Express · Node.js · MySQL · REST APIs
-
-**Comfortable:** Framer Motion · Sequelize · JWT · MUI · Git · Docker · Linux admin
-
-**Roots:** HTML5 · CSS3 · PHP · Java · Oracle · SuiteCRM · Nextcloud · Jitsi
-
-**Learning:** richer motion systems · design systems · ERPNext / Frappe
+```text
+DAILY ........ React  Vite  JS  TS  Tailwind  Express  Node  MySQL  REST
+COMFY ........ Framer Motion  Sequelize  JWT  MUI  Git  Docker  Linux
+ROOTS ........ HTML5  CSS3  PHP  Java  Oracle  SuiteCRM  Nextcloud  Jitsi
+LEARNING .... motion systems  design systems  ERPNext / Frappe
+```
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
 
-## GitHub pulse
+<h2 align="center">📡 SIGNAL — GITHUB HUD</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=still-not-found&show_icons=true&theme=transparent&bg_color=05080f&title_color=2ee6c8&icon_color=2ee6c8&text_color=c5d0dc&ring_color=2ee6c8&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=still-not-found&layout=compact&theme=transparent&bg_color=05080f&title_color=2ee6c8&text_color=c5d0dc&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=still-not-found&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=05080f&title_color=2ee6c8&icon_color=2ee6c8&text_color=e6f6f2&ring_color=2ee6c8" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=still-not-found&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=05080f&title_color=2ee6c8&text_color=e6f6f2" height="180" alt="langs"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=still-not-found&theme=transparent&background=05080f&ring=2ee6c8&fire=2ee6c8&currStreakLabel=2ee6c8&sideLabels=c5d0dc&sideNums=c5d0dc&dates=8896a8&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=still-not-found&theme=radical&hide_border=true&background=05080f&ring=2ee6c8&fire=00ffc8&currStreakNum=2ee6c8&sideNums=e6f6f2&currStreakLabel=2ee6c8&sideLabels=9fb3c8&dates=7d8ea3" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=still-not-found&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=still-not-found&theme=react-dark&bg_color=05080f&color=2ee6c8&line=2ee6c8&point=67e8f9&area=true&hide_border=true&custom_title=COMMIT%20HEAT" alt="activity graph"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=still-not-found&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies"/>
+</div>
 
-## Now playing
+<h2 align="center">👾 CONTRIBUTION PAC-MAN</h2>
+<div align="center">
+  <img src="https://pacman-contribution-graph.vercel.app/contribution?username=still-not-found&theme=dark" alt="pacman contributions"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
+
+<h2 align="center">📌 PINNED FIRE</h2>
+
+<div align="center">
+  <a href="https://github.com/Still-not-found/My_Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=My_Portfolio&username=still-not-found&theme=radical&hide_border=true&bg_color=05080f&title_color=2ee6c8&icon_color=2ee6c8&text_color=e6f6f2" alt="My_Portfolio"/>
+  </a>
+  <a href="https://github.com/Still-not-found/suitecrm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=suitecrm&username=still-not-found&theme=radical&hide_border=true&bg_color=05080f&title_color=2ee6c8&icon_color=2ee6c8&text_color=e6f6f2" alt="suitecrm"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Still-not-found/suitecrm-Kanban">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=suitecrm-Kanban&username=still-not-found&theme=radical&hide_border=true&bg_color=05080f&title_color=2ee6c8&icon_color=2ee6c8&text_color=e6f6f2" alt="kanban"/>
+  </a>
+  <a href="https://github.com/Still-not-found/Still-not-found">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=Still-not-found&username=still-not-found&theme=radical&hide_border=true&bg_color=05080f&title_color=2ee6c8&icon_color=2ee6c8&text_color=e6f6f2" alt="profile repo"/>
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
+
+<h2 align="center">🧠 CURRENT PROCESS</h2>
 
 ```js
-const raghul = {
+const stillNotFound = {
   name: "Raghul JE",
-  handle: "Still-not-found",
+  alias: "Still-not-found",
   role: "Software Engineer",
-  company: "Refex Industries Limited",
-  city: "Chennai",
+  guild: "Refex Industries Limited",
+  spawn: "Chennai",
+  lang: ["English", "தமிழ்"],
   stack: ["React", "Node.js", "Express", "MySQL"],
-  shipping: ["ITAM", "fleet", "plant MIS", "brand sites"],
+  production: [
+    "3imedtech.com",
+    "modepro.co.in",
+    "adonismedical.com",
+    "srel.refex.group",
+    "asset.refexone.com",
+    "mobility.refexone.com",
+  ],
   openTo: ["full-time", "freelance", "remote"],
-  funFact: "not funny. trying.",
+  vibe: "linux panda + neon terminal",
+  funny: false,
+  trying: true,
 };
+
+while (stillNotFound.trying) ship();
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
+
+<h2 align="center">📞 PING ME</h2>
+
+<p align="center">
+  I don't do small talk. I do <b>ship talk</b>.<br/>
+  <a href="https://still-not-found.github.io/My_Portfolio/"><b>▶ Open the portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/raghul-je">LinkedIn</a> ·
+  <a href="https://leetcode.com/raghul_je/">LeetCode</a> ·
+  <a href="https://github.com/Still-not-found">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&lines=if+(you.readThis)+{+let's.build();+}" alt="cta"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ee6c8,50:0e7490,100:05080f&height=140&section=footer" width="100%" alt=""/>
+</p>
